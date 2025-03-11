@@ -1,4 +1,4 @@
-name: Automatyzacja dla apki Node.js
+name: Automatyzacja dla apki Node.js 1
 on:
   push:
     branches:
