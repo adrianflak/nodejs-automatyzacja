@@ -2,7 +2,7 @@ name: Automatyzacja dla apki Node.js
 on:
   push:
     branches:
-    - production
+    - producation
   workflow_dispatch:
   
 jobs:
