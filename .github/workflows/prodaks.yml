@@ -39,7 +39,7 @@ on:
 
 env:
   ACR_RESOURCE_GROUP: nAKSregistry_group
-  AZURE_CONTAINER_REGISTRY: naksregistry
+  AZURE_CONTAINER_REGISTRY: nAKSregistry
   CONTAINER_NAME: image-workflow-1743941663563
   CLUSTER_NAME: nAKS
   CLUSTER_RESOURCE_GROUP: radeksliwicki
