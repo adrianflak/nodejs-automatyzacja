@@ -34,7 +34,8 @@ name: produkcjaaks
 
 on:
   push:
-    branches: [production]
+    branches: 
+      - aks-devhub-kenkc
   workflow_dispatch:
 
 env:
